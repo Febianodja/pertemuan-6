@@ -1,0 +1,7 @@
+// JAWABAN QUESTION RESPONSIVE WEB DESIGN
+
+1. Bisa dilihat dengan Chrome Dev Tools, dan dapat diakses dengan menggunakan shortcut cmd + opt + J untuk Mac, atau ctrl +shift + J untuk Windows
+2. Untuk menyesuaikan gambar pada halaman web.
+3. - Membuat file CSS yang berbeda untuk device yang berbeda
+   - Menggabungkan styling yang berbeda untuk tiap device dalam 1 file CSS
+4. Ukuran device yang berbeda contoh: desktop, tablet, handphone (mobile).
